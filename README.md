@@ -1,2 +1,7 @@
-# node.js rest api boilerplate
-node rest api boilerplate
+# Node.js rest api boilerplate
+Rest api boilerplate for Node.js
+
+# Installation
+- clone this repo
+- npm install
+
