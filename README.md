@@ -1,2 +1,2 @@
-# node-starterkit
-node rest api starter kit
+# node.js rest api boilerplate
+node rest api boilerplate
